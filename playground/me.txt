@@ -1,0 +1,5 @@
+{{#user}}
+Name: Sanika Joshi
+Skills: Python, Java, Machine Learning, GitHub, DSA, OOP
+Email: sanikajoshi8903@gmail.com
+{{/user}}
